@@ -1,0 +1,6 @@
+{
+  "name": "Baru Sketch Gallery",
+  "description": "A luxury e-commerce art gallery and online painting store showcasing handmade sketches, charcoal portraits, acrylic & oil paintings by artist Vishal Kumar Baroliya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
